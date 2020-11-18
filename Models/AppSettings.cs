@@ -7,7 +7,7 @@ namespace WebAppForPractice.Models
 {
     public class AppSettings
     {
-        public static string Url { get; set; } = "";  
+        public static string Url { get; set; } = "https://github.com/razrabpasha38/WebAppForPractice";
 
         public static string Name { get; set; } = "TimPavel_bot";
 
